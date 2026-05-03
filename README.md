@@ -14,6 +14,7 @@ Generate turbulence graphs for completed flights
 Predict turbulence for upcoming flights using real weather data
 
 **🧠 Core Idea**
+
 Turbu uses a Physics-Informed Neural Network where:
 One part learns from real flight and weather data
 Another part ensures predictions obey physical equations
