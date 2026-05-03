@@ -24,12 +24,22 @@ This improves reliability compared to standard ML models.
 **Loss Function:**
 
 Prediction Loss → Difference between predicted and actual turbulence
+
 Physics Loss → Violation of physical laws (wind flow, pressure relations, etc.)
-📊 Features
+
+
+**📊 Features**
+
 🌍 Global airport dataset integration
+
 ✈️ Flight route visualization on interactive map
+
 📜 Past flight history with duration
+
 📈 Turbulence intensity graph across journey
+
 🔮 Future turbulence prediction using weather forecasts
+
 ⚠️ Risk classification (Low / Medium / High)
+
 🤖 PINN-based hybrid AI model
